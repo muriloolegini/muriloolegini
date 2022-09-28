@@ -4,7 +4,10 @@
 
 <h3> Sou organizado, comprometido, responsável e com facilidade de aprendizado. </h3>
 
----
+##
+
+<div style="display: inline_block">
+  <img align="left" width="49%" alt="funcionou" src="imgs/funcionou.gif" /><br>
 
 ![Snake animation](https://github.com/muriloolegini/muriloolegini/blob/output/github-contribution-grid-snake.svg)  
 </div>
@@ -53,7 +56,7 @@ Descrição | Instituição | Ano |
 
 <div align="center">
   <br>  
-    <p align="centre"><b>Contagem de visitantes</b></p>  
+    <p align="center"><b>Contagem de visitantes</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{muriloolegini}/count.svg" /></p> 
   <br>
 </div>
