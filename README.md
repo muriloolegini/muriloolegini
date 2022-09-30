@@ -14,40 +14,48 @@
 
 ---
 
+<!---
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=muriloolegini&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Murilo Olegini github stats" />
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloolegini&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
+-->
 ---
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=muriloolegini&theme=gotham&hide_border=true&area=true)
 
 ---
 
-🏆 Prêmios, Cursos e Certificações
+<div align="center">
+  🏆 Prêmios, Cursos e Certificações
 
-Descrição | Instituição | Ano |
-| -------- | -------- | :-: |
-🏅 Formação Blockchain Especialist | DIO | 2022
+  Descrição | Instituição | Ano |
+  | -------- | -------- | :-: |
+  🏅 Formação Blockchain Especialist | DIO | 2022
+</div>
 
 ##
 
-🛠️ Tecnologias
- <div style="display: inline_block"><br>
-   <img align="center" alt="Mur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Mur-Dotcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-   <img align="center" alt="Mur-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">          
-   <img align="center" alt="Mur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+  <div style="display: inline_block"><br>
+    <p align="center"><b>🛠️ Tecnologias</b></p>
+    <img align="center" alt="Mur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Mur-Dotcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img align="center" alt="Mur-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">          
+    <img align="center" alt="Mur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
 </div>
   
   ##
 
-🌐 Conectar
-<div> 
+
+<div align="center"> 
+<p align="center"><b>🌐 Conectar</b></p>
+<!---
  	<a href = "mailto:muriloolegini@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "https://teams.live.com/_?utm_source=OfficeWeb#/conversations/?ctx=chat"> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
+-->
   <a href="https://www.linkedin.com/in/murilo-olegini-pcd-0b9815a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/muriloolegini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://t.me/MuriloOlegini"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
