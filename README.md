@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Murilo+Olegini;Sou+desenvolvedor+júnior+.NET;+Amo+Python;Amo+Blockchain;Sejam+todos+bem+vindos!+:%29)](https://git.io/typing-svg)
 
-<!---<h3 align="center"> Organizado, comprometido, responsável. </h3>-->
+<h3 align="center"> Organizado, comprometido, responsável. Um eterno aprendiz de tecnologia e adepto às grandes propostas da Blockchain, IoT, Machine Learning e Web3.0. </h3>
 
 ##
 
