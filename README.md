@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Murilo+Olegini;Sou+desenvolvedor+júnior+.NET;+Amo+Python;Amo+Blockchain;Sejam+todos+bem+vindos!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center"> Organizado, comprometido, responsável. Um eterno aprendiz de tecnologia e adepto às grandes propostas da Blockchain, IoT, Machine Learning e Web3.0. </h3>
+<h3 align="center"> Organizado, comprometido, responsável. Aprendiz de tecnologia e adepto às grandes propostas da Blockchain, IoT, Machine Learning e Web3.0. </h3>
 
 ##
 
@@ -33,10 +33,43 @@
 <div align="center">
   <p align="center"><b> 🏆 Cursos e Certificações </b></p>
 
-  Descrição | Instituição | Ano |
-  | -------- | -------- | :-: |
-  🏅 Formação Blockchain Especialist | DIO | 2022
-  🏅 Formação .Net Developer | DIO | 2022
+  
+<table>
+    <tr>
+        <th>
+            Descrição
+        </th>
+        <th>
+            Instituição
+        </th>
+        <th>
+            Ano
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.dio.me/certificate/C43D8C73/share" >🏅 Formação Blockchain Especialist</a>
+        </td>
+        <td>
+            DIO
+        </td>
+        <td>
+            2022
+        </td>
+    </tr>
+        <td>
+           🏅 Formação .NET Developer
+        </td>
+        <td>
+            DIO
+        </td>
+        <td>
+            2022
+        </td>
+    </tr>
+    </tr>
+</table>
+  
 </div>
 
 ##
