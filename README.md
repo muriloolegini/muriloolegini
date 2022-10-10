@@ -2,9 +2,11 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Murilo+Olegini;Sou+desenvolvedor+júnior+.NET;+Amo+Python;Amo+Blockchain;Sejam+todos+bem+vindos!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center"> Organizado, comprometido, responsável. Aprendiz de tecnologia e adepto às grandes propostas da Blockchain, IoT, Machine Learning e Web3.0. </h3>
+<h3 align="center"> Organizado, comprometido, responsável. Aprendiz de tecnologia e adepto às grandes propostas da Blockchain, IoT, Machine Learning, Web3.0 e Metaverso. </h3>
 
 ##
+
+[Índice](#Índice) ⬇️
 
 <div style="display: inline_block">
   <img align="left" width="49%" alt="funcionou" src="imgs/funcionou.gif" /><br>
@@ -67,6 +69,15 @@
             2022
         </td>
     </tr>
+        <td>
+           🏅 Formação Python Developer
+        </td>
+        <td>
+            DIO
+        </td>
+        <td>
+            2022
+        </td>
     </tr>
 </table>
   
@@ -97,12 +108,46 @@
   <a href="https://www.linkedin.com/in/murilo-olegini-pcd-0b9815a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/muriloolegini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://t.me/MuriloOlegini"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
+  
+
+## Índice
+
+- C#
+    - [Colecoes](https://github.com/muriloolegini/Colecoes)
+    - [Contato API](https://github.com/muriloolegini/ContatoAPI)
+    - [Lista Encadeada](https://github.com/muriloolegini/ListaEncadeada)
+    - [Modulo API](https://github.com/muriloolegini/ModuloAPI)
+    - [Projeto MVC](https://github.com/muriloolegini/ProjetoMVC)
+    - [Desafio .NET Fundamentos](https://github.com/muriloolegini/trilha-net-fundamentos-desafio)
+    - [Desafio .NET Explorando](https://github.com/muriloolegini/trilha-net-explorando-desafio)
+    - [Desafio .NET POO](https://github.com/muriloolegini/trilha-net-poo-desafio)
+    - [Desafio .NET API](https://github.com/muriloolegini/trilha-net-api-desafio)
+    - [Desafio .NET Testes Unitarios](https://github.com/muriloolegini/trilha-net-testes-unitarios-desafio)
+    - [RPG Game](https://github.com/muriloolegini/RPGGame)
+
+- Python
+    - [Cliente Server UDP](https://github.com/muriloolegini/clienteserverudp)
+    - [Cliente TCP](https://github.com/muriloolegini/clientetcp)
+    - [Download Video Youtube](https://github.com/muriloolegini/download_video_youtube)
+    
+- Solidity
+    - [Solidity Projects](https://github.com/muriloolegini/solidity_projects)
+    - [Urna Eletronica](https://github.com/muriloolegini/Urna-Eletronica)
+
+- Java
+    - [Banco Digital](https://github.com/muriloolegini/Banco_Digital)
+    - [Desafio POO](https://github.com/muriloolegini/desafio-poo-dio)
+    - [Pokemon](https://github.com/muriloolegini/Pokemon)
+    
+---
+
 
 <div align="center">
   <br>  
-    <p align="center"><b> 🧭 Contagem de visitas </b></p>  
+    <p align="center"><b> 🧭 Contagem de visitantes </b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{muriloolegini}/count.svg" /></p> 
   <br>
 </div>
