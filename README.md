@@ -1,8 +1,10 @@
-<h1> Em desenvolvimento :warning: </h1>
+<img width="40%" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellowgreen&style=for-the-badge">
+
+##
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Murilo+Olegini;Sou+desenvolvedor+júnior+.NET;+Amo+Python;Amo+Blockchain;Sejam+todos+bem+vindos!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center"> Organizado, comprometido, responsável. Aprendiz de tecnologia e adepto às grandes propostas da Blockchain, IoT, Machine Learning, Web3.0 e Metaverso. </h3>
+<h3 align="center"> Aprendiz de tecnologia e adepto às grandes propostas da Blockchain, IoT, Machine Learning, Web3.0 e Metaverso. </h3>
 
 ##
 
@@ -18,14 +20,6 @@
   
 </div>
 
----
-<!---
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=muriloolegini&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Murilo Olegini github stats" />
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloolegini&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
--->
 ---
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=muriloolegini&theme=gotham&hide_border=true&area=true)
@@ -50,7 +44,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.dio.me/certificate/C43D8C73/share" >🏅 Formação Blockchain Especialist</a>
+            <a href="https://www.dio.me/certificate/C43D8C73/share" >🏅 Formação Blockchain Specialist</a>
         </td>
         <td>
             DIO
@@ -80,7 +74,48 @@
         </td>
     </tr>
 </table>
+</div>
+
+##
+
+<div align="center">
+  <p align="center"><b> 📚 Previsões de Cursos para 2023 </b></p>
   
+  <table>
+    <tr>
+        <th>
+            Descrição
+        </th>
+        <th>
+            Instituição
+        </th>
+        <th>
+            Ano
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Formação Machine Learning Specialist
+        </td>
+        <td>
+            DIO
+        </td>
+        <td>
+            2023
+        </td>
+    </tr>
+    <tr>
+        <td>
+           Formação Game Developer: Roblox & Metaverse
+        </td>
+        <td>
+            DIO
+        </td>
+        <td>
+            2023
+        </td>
+    </tr>
+  </table>
 </div>
 
 ##
@@ -153,6 +188,12 @@
     <p align="center"><b> 🧭 Contagem de visitantes </b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{muriloolegini}/count.svg" /></p> 
   <br>
+</div>
+
+<div align="center">
+
+![GitHub Org's stars](https://img.shields.io/github/stars/muriloolegini?style=social)
+
 </div>
 
 [⬆ Voltar ao topo](https://github.com/muriloolegini)
