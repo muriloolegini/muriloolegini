@@ -142,6 +142,9 @@
     - [Desafio POO](https://github.com/muriloolegini/desafio-poo-dio)
     - [Pokemon](https://github.com/muriloolegini/Pokemon)
     
+- Jupyter - Python
+    - [Automacao de Sistemas](https://github.com/muriloolegini/Automacao_de_Sistemas)
+    
 ---
 
 
