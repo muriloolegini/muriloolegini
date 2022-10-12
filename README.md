@@ -10,9 +10,21 @@
 
 [Índice](#Índice) ⬇️
 
-<div style="display: inline_block">
-  <img align="left" width="49%" alt="funcionou" src="imgs/funcionou.gif" /><br>
+<div align="center">
+    <div style="display: inline_block">
+        <img align="left" width="49%" alt="funcionou" src="imgs/funcionou.gif" /><br>
+        <h3>🚀 Skills </h3>
+        <img src="https://skillicons.dev/icons?i=dotnet,cs,py,solidity&theme=light">
+        
+##
+
+<p align="center"><b> 🌐 Social </b></p>
+    <a href="https://www.linkedin.com/in/murilo-olegini-pcd-0b9815a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/muriloolegini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://t.me/MuriloOlegini"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+    </div>
 </div>
+
 
 <div align="center">
 
@@ -144,44 +156,59 @@
   <a href="https://www.instagram.com/muriloolegini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://t.me/MuriloOlegini"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
-
----
-  
-
-## Índice
-
-- C#
-    - [Colecoes](https://github.com/muriloolegini/Colecoes)
-    - [Contato API](https://github.com/muriloolegini/ContatoAPI)
-    - [Lista Encadeada](https://github.com/muriloolegini/ListaEncadeada)
-    - [Modulo API](https://github.com/muriloolegini/ModuloAPI)
-    - [Projeto MVC](https://github.com/muriloolegini/ProjetoMVC)
-    - [Desafio .NET Fundamentos](https://github.com/muriloolegini/trilha-net-fundamentos-desafio)
-    - [Desafio .NET Explorando](https://github.com/muriloolegini/trilha-net-explorando-desafio)
-    - [Desafio .NET POO](https://github.com/muriloolegini/trilha-net-poo-desafio)
-    - [Desafio .NET API](https://github.com/muriloolegini/trilha-net-api-desafio)
-    - [Desafio .NET Testes Unitarios](https://github.com/muriloolegini/trilha-net-testes-unitarios-desafio)
-    - [RPG Game](https://github.com/muriloolegini/RPGGame)
-
-- Python
-    - [Cliente Server UDP](https://github.com/muriloolegini/clienteserverudp)
-    - [Cliente TCP](https://github.com/muriloolegini/clientetcp)
-    - [Download Video Youtube](https://github.com/muriloolegini/download_video_youtube)
-    
-- Solidity
-    - [Solidity Projects](https://github.com/muriloolegini/solidity_projects)
-    - [Urna Eletronica](https://github.com/muriloolegini/Urna-Eletronica)
-
-- Java
-    - [Banco Digital](https://github.com/muriloolegini/Banco_Digital)
-    - [Desafio POO](https://github.com/muriloolegini/desafio-poo-dio)
-    - [Pokemon](https://github.com/muriloolegini/Pokemon)
-    
-- Jupyter - Python
-    - [Automacao de Sistemas](https://github.com/muriloolegini/Automacao_de_Sistemas)
     
 ---
 
+<h2>Índice</h2>
+
+<div align="center">
+  <h3>C#</h3>
+  <a href="https://github.com/muriloolegini/Colecoes">Colecoes</a> |
+  <a href="https://github.com/muriloolegini/ProjetoMVC">Projeto MVC</a> |
+  <a href="https://github.com/muriloolegini/ContatoAPI">Contato API</a> |
+  <a href="https://github.com/muriloolegini/ModuloAPI">Mundo API</a> |
+  <a href="https://github.com/muriloolegini/ListaEncadeada">Lista Encadeada</a> |
+  <a href="https://github.com/muriloolegini/trilha-net-fundamentos-desafio">Desafio .NET Fundamentos</a> |
+  <a href="https://github.com/muriloolegini/trilha-net-explorando-desafio">Desafio .NET Explorando</a> |
+  <a href="https://github.com/muriloolegini/trilha-net-poo-desafio">Desafio .NET POO</a> |
+  <a href="https://github.com/muriloolegini/trilha-net-api-desafio">Desafio .NET API</a> |
+  <a href="https://github.com/muriloolegini/trilha-net-testes-unitarios-desafio">Desafio .NET Testes Unitarios</a> |
+  <a href="https://github.com/muriloolegini/RPGGame">RPG Game</a>
+</div>
+
+##
+
+<div align="center">
+  <h3>Python</h3>
+  <a href="https://github.com/muriloolegini/clientetcp">Cliente TCP</a> |
+  <a href="https://github.com/muriloolegini/clienteserverudp">Cliente Server UDP</a> |
+  <a href="https://github.com/muriloolegini/download_video_youtube">Download Video Youtube</a> 
+</div>
+
+##
+
+<div align="center">
+  <h3>Solidity</h3>
+  <a href="https://github.com/muriloolegini/solidity_projects">Solidity Projects</a> |
+  <a href="https://github.com/muriloolegini/Urna-Eletronica-Condominio">Urna Eletronica Condominio</a>
+</div>
+
+##
+
+<div align="center">
+  <h3>Java</h3>
+  <a href="https://github.com/muriloolegini/Banco_Digital">Banco Digital</a> |
+  <a href="https://github.com/muriloolegini/desafio-poo-dio">Desafio POO</a> |
+  <a href="https://github.com/muriloolegini/Pokemon">Pokemon</a> 
+
+##
+
+<div align="center">
+  <h3>Jupyter - Python</h3>
+  <a href="https://github.com/muriloolegini/Automacao_de_Sistemas">Automacao de Sistemas</a>
+</div>
+
+---
 
 <div align="center">
   <br>  
