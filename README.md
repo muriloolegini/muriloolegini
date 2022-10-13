@@ -18,7 +18,7 @@
         
 ##
 
-<p align="center"><b> 🌐 Social </b></p>
+<p align="center"><h3> 🌐 Contato </h3></p>
     <a href="https://www.linkedin.com/in/murilo-olegini-pcd-0b9815a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/muriloolegini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://t.me/MuriloOlegini"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
@@ -53,36 +53,48 @@
         <th>
             Ano
         </th>
+        <th>
+            Status
+        </th>
     </tr>
     <tr>
         <td>
             <a href="https://www.dio.me/certificate/C43D8C73/share" >🏅 Formação Blockchain Specialist</a>
         </td>
-        <td>
+        <td align="center">
             DIO
         </td>
-        <td>
+        <td align="center">
             2022
+        </td>
+        <td align="center">
+          ✅
         </td>
     </tr>
         <td>
            🏅 Formação .NET Developer
         </td>
-        <td>
+        <td align="center">
             DIO
         </td>
-        <td>
+        <td align="center">
             2022
+        </td>
+        <td align="center">
+          ⚠️
         </td>
     </tr>
         <td>
            🏅 Formação Python Developer
         </td>
-        <td>
+        <td align="center">
             DIO
         </td>
-        <td>
+        <td align="center">
             2022
+        </td>
+        <td align="center">
+          ⚠️
         </td>
     </tr>
 </table>
@@ -109,7 +121,7 @@
         <td>
             Formação Machine Learning Specialist
         </td>
-        <td>
+        <td align="center">
             DIO
         </td>
         <td>
@@ -120,7 +132,7 @@
         <td>
            Formação Game Developer: Roblox & Metaverse
         </td>
-        <td>
+        <td align="center">
             DIO
         </td>
         <td>
@@ -192,8 +204,6 @@
 </div>
 
 <div align="center">
-
-![GitHub Org's stars](https://img.shields.io/github/stars/muriloolegini?style=social)
 
 </div>
 
