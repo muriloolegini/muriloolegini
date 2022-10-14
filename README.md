@@ -1,14 +1,14 @@
-<img width="40%" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellowgreen&style=for-the-badge">
+<img width="40%" src="http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=yellow&style=for-the-badge">
 
 ##
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Murilo+Olegini;Sou+desenvolvedor+júnior+.NET;+Amo+Python;Amo+Blockchain;Sejam+todos+bem+vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Murilo+Olegini;I'm+a+.NET+developer;+I+love+Python;I+love+Blockchain;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center"> Aprendiz de tecnologia e adepto às grandes propostas da Blockchain, IoT, Machine Learning, Web3.0 e Metaverso. </h3>
+<h3 align="center"> .NET, Blockchain, IoT, Machine Learning, Web3.0 e Metaverso. </h3>
 
 ##
 
-[Índice ⬇️](#Índice) 
+[Index ⬇️](#Index) 
 
 <div align="center">
     <div style="display: inline_block">
@@ -18,7 +18,7 @@
         
 ##
 
-<p align="center"><h3> 🌐 Contato </h3></p>
+<p align="center"><h3> 🌐 Contact </h3></p>
     <a href="https://www.linkedin.com/in/murilo-olegini-pcd-0b9815a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/muriloolegini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://t.me/MuriloOlegini"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
@@ -39,19 +39,19 @@
 ---
 
 <div align="center">
-  <p align="center"><b> 🏆 Cursos e Certificações </b></p>
+  <p align="center"><b> 🏆 Courses and Certificates </b></p>
 
   
 <table>
     <tr>
         <th>
-            Descrição
+            Description
         </th>
         <th>
-            Instituição
+            Institution
         </th>
         <th>
-            Ano
+            Year
         </th>
         <th>
             Status
@@ -103,18 +103,18 @@
 ##
 
 <div align="center">
-  <p align="center"><b> 📚 Previsões de Cursos para 2023 </b></p>
+  <p align="center"><b> 📚 Course predictions for 2023 </b></p>
   
   <table>
     <tr>
         <th>
-            Descrição
+            Description
         </th>
         <th>
-            Instituição
+            Institution
         </th>
         <th>
-            Ano
+            Year
         </th>
     </tr>
     <tr>
@@ -144,7 +144,7 @@
 
 ---
 
-<h2>Índice</h2>
+<h2>Index</h2>
 
 <div align="center">
   <h3>C#</h3>
@@ -198,7 +198,7 @@
 
 <div align="center">
   <br>  
-    <p align="center"><b> 🧭 Contagem de visitantes </b></p>  
+    <p align="center"><b> 🧭 Visitor count </b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{muriloolegini}/count.svg" /></p> 
   <br>
 </div>
@@ -207,4 +207,4 @@
 
 </div>
 
-[⬆ Voltar ao topo](https://github.com/muriloolegini)
+[⬆ Back to top](https://github.com/muriloolegini)
