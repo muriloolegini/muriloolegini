@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Murilo+Olegini;I'm+a+.NET+developer;+I+love+Python;I+love+Blockchain;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center"> .NET, Blockchain, IoT, Machine Learning, Web3.0 and Metaverso. </h3>
+<h3 align="center"> .NET, Blockchain, IoT, Machine Learning, Web3.0 and Metaverse. </h3>
 
 ##
 
