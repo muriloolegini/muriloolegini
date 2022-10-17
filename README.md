@@ -152,6 +152,7 @@
   <a href="https://github.com/muriloolegini/ProjetoMVC">Projeto MVC</a> |
   <a href="https://github.com/muriloolegini/ContatoAPI">Contato API</a> |
   <a href="https://github.com/muriloolegini/SuperHeroAPI">SuperHeroAPI</a> |
+  <a href="https://github.com/muriloolegini/SimpleEmailAPI">SimpleEmailAPI</a> |
   <a href="https://github.com/muriloolegini/ModuloAPI">Mundo API</a> |
   <a href="https://github.com/muriloolegini/ListaEncadeada">Lista Encadeada</a> |
   <a href="https://github.com/muriloolegini/trilha-net-fundamentos-desafio">Desafio .NET Fundamentos</a> |
