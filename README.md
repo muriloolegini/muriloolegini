@@ -12,7 +12,7 @@
 
 <div align="center">
     <div style="display: inline_block">
-        <img align="left" width="49%" alt="funcionou" src="imgs/funcionou.gif" /><br>
+        <img align="left" width="50%" alt="funcionou" src="imgs/funcionou.gif" /><br>
         <h3>🚀 Skills </h3>
         <img src="https://skillicons.dev/icons?i=dotnet,cs,py,solidity&theme=light">
         
