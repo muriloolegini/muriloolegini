@@ -2,7 +2,7 @@
 
 ##
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Murilo+Olegini;I'm+a+Junior+Developer+.NET;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Murilo+Olegini;I'm+a+Junior+.NET+Developer;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <img width="30%" src="https://user-images.githubusercontent.com/22229127/197913769-84ca1107-046f-4238-8585-7c8115961229.gif" />
 
