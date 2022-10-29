@@ -148,7 +148,7 @@
 
 <div align="center">
   <h3>C#</h3>
-  <a href="https://github.com/muriloolegini/Pokedex">Pokedex</a> |
+  <a href="https://github.com/muriloolegini/Pokedex">Pokedex (Pokémon Combat Game)</a> |
   <a href="https://github.com/muriloolegini/Colecoes">Colecoes</a> |
   <a href="https://github.com/muriloolegini/ProjetoMVC">Projeto MVC</a> |
   <a href="https://github.com/muriloolegini/ContatoAPI">Contato API</a> |
