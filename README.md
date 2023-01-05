@@ -8,7 +8,7 @@
 
 ##
 
-[Summary ⬇️](#Summary) 
+[Index ⬇️](#Index) 
 
 <div align="center">
     <div style="display: inline_block">
@@ -31,10 +31,6 @@
   ![Snake animation](https://github.com/muriloolegini/muriloolegini/blob/output/github-contribution-grid-snake.svg)  
   
 </div>
-
----
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=muriloolegini&theme=gotham&hide_border=true&area=true)
 
 ---
 
@@ -71,27 +67,29 @@
           ✅
         </td>
     </tr>
+    </tr>
         <td>
+           <a href="https://www.dio.me/certificate/4C863265/share" >🏅 Formação Cybersecurity Specialist
+        </td>
+        <td align="center">
+            DIO
+        </td>
+        <td align="center">
+            2023
+        </td>
+        <td align="center">
+          ✅
+        </td>
+    </tr>
+    <tr>
+      <td>
            🏅 Formação .NET Developer
         </td>
         <td align="center">
             DIO
         </td>
         <td align="center">
-            2022
-        </td>
-        <td align="center">
-          ⚠️
-        </td>
-    </tr>
-        <td>
-           🏅 Formação Python Developer
-        </td>
-        <td align="center">
-            DIO
-        </td>
-        <td align="center">
-            2022
+            2023
         </td>
         <td align="center">
           ⚠️
@@ -144,7 +142,7 @@
 
 ---
 
-<h2>Summary</h2>
+<h2>Index</h2>
 
 <div align="center">
   <h3>C#</h3>
