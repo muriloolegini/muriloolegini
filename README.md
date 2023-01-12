@@ -191,7 +191,7 @@
 
 <div align="center">
   <h3>Jupyter - Python</h3>
-  <a href="https://github.com/muriloolegini/Automacao_de_Sistemas">Automacao de Sistemas</a>
+  <a href="https://github.com/muriloolegini/Automacao-de-Sistemas">Automacao de Sistemas</a>
 </div>
 
 ---
