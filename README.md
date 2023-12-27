@@ -2,7 +2,7 @@
 
 ##
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Murilo+Olegini;I'm+a+Junior+.NET+Developer;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Murilo+Olegini;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <img width="30%" src="https://user-images.githubusercontent.com/22229127/197913769-84ca1107-046f-4238-8585-7c8115961229.gif" />
 
@@ -96,48 +96,6 @@
         </td>
     </tr>
 </table>
-</div>
-
-##
-
-<div align="center">
-  <p align="center"><b> 📚 Course predictions for 2023 </b></p>
-  
-  <table>
-    <tr>
-        <th>
-            Description
-        </th>
-        <th>
-            Institution
-        </th>
-        <th>
-            Year
-        </th>
-    </tr>
-    <tr>
-        <td>
-            Formação Machine Learning Specialist
-        </td>
-        <td align="center">
-            DIO
-        </td>
-        <td>
-            2023
-        </td>
-    </tr>
-    <tr>
-        <td>
-           Formação Game Developer: Roblox & Metaverse
-        </td>
-        <td align="center">
-            DIO
-        </td>
-        <td>
-            2023
-        </td>
-    </tr>
-  </table>
 </div>
 
 ---
