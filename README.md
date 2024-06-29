@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td>
-           🏅 Formação Fundamentos de Inteligência Artificial
+           <a href="https://www.dio.me/certificate/YOQWSKJI/share" >🏅 Formação Fundamentos de Inteligência Artificial
         </td>
         <td align="center">
             DIO
