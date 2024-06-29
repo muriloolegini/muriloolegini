@@ -89,7 +89,7 @@
             DIO
         </td>
         <td align="center">
-            2023
+            2024
         </td>
         <td align="center">
           ✅
