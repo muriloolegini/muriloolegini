@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td>
-           🏅 Formação .NET Developer
+           🏅 Formação Fundamentos de Inteligência Artificial
         </td>
         <td align="center">
             DIO
@@ -92,7 +92,7 @@
             2023
         </td>
         <td align="center">
-          ⚠️
+          ✅
         </td>
     </tr>
 </table>
